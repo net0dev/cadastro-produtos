@@ -7,8 +7,15 @@ Projeto simples para cadastro de produtos, utilizando o conceito de **Programaç
 - Cálculo do estoque total
 
 ## 🗂️ Estrutura do projeto
-
+```
 src/
+|----application/
+|          |_____ProdutosMain.java
+|----entities/
+|          |_____Produtos.java
+|
+|____README.md
 
+```
 
 
