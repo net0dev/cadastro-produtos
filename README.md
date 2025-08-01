@@ -8,7 +8,7 @@ Projeto simples para cadastro de produtos, utilizando o conceito de **Programaç
 
 ## 🗂️ Estrutura do projeto
 
-´´src/
-**|---**
+src/
 
-´´
+
+
