@@ -114,7 +114,7 @@ public class ProdutoMain {
 
     }
 
-    private static void apagarProduto(Scanner sc) {
+    public static void apagarProduto(Scanner sc) {
         ProdutoDAO pd = new ProdutoDAO();
         Produtos p = new Produtos();
 
