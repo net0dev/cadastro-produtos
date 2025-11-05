@@ -9,9 +9,9 @@ public class Conexao {
     public static Connection getConexao() {
         try {
             return DriverManager.getConnection(
-                    "jdbc:mysql://localhost:3306/exemplodb",
+                    "jdbc:mysql://localhost:3306/cadastro_produtos",
                     "root",
-                    "Cafe1209"
+                    "Coloque a senha do seu banco aqui"
             );
         } catch (SQLException e) {
             throw new RuntimeException("Erro ao conectar: " + e.getMessage(), e);
