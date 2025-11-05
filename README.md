@@ -39,9 +39,9 @@ ProjetoDB/
 
 ## 🗄️ Estrutura do Banco de Dados
 
-**Banco:** `cadastro_produtos`
+**Banco:** cadastro_produtos
 
-**Tabela:** `produtos`
+**Tabela:** produtos
 
 ```sql
 CREATE DATABASE cadastro_produtos;
